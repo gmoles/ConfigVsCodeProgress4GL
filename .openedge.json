@@ -1,0 +1,13 @@
+{
+    "workingDirectory": "C:/VsCodeConfig",
+    "proPath": [
+        "C:/VsCodeConfig",
+        "C:/Temp"
+    ],
+    "dlc": "C:/Progress/OpenEdge", 
+    "proPathMode": "append", 
+    "parameterFiles":[
+        "C:/VsCodeConfig/default.pf"
+    ], 
+    "startupProcedure" : "C:/VsCodeConfig/vsc-oe-startup.p"
+}   

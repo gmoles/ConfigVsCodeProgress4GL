@@ -1,0 +1,17 @@
+# PF Default - 09/04/2019 - Guilherme Moles 
+# 
+# Configurar Parâmetros Progress e Conexão com os Bancos
+
+
+-cpinternal ISO8859-1
+-cpstream ISO8859-1
+-cpcoll Basic
+-cpcase Basic
+-d dmy
+-numsep 44
+-numdec 46 
+-h 20
+
+# CONNECT BASE
+#-db NomeBanco1  -ld NomeBanco1  -U Usuario -P Senha -S Porta1 -H 10.1.1.100
+#-db NomeBanco2  -ld NomeBanco2  -U Usuario -P Senha -S Porta2 -H 10.1.1.100
