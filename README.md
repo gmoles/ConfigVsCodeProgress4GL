@@ -1,7 +1,7 @@
 # ConfigVsCodeProgress4GL
-# Configuração do VsCode para utilização do Progress 4GL
-#
-# Guilherme Moles 
+* Configuração do VsCode para utilização do Progress 4GL
+*
+* Guilherme Moles 24/07/2020
 
 
 OBS: Antes de configurar o ambiente verificar se o arquivo .openedge.json trocou o "." ponto inicial por "_" 
