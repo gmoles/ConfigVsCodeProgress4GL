@@ -28,9 +28,9 @@ OBS: Antes de configurar o ambiente verificar se o arquivo .openedge.json trocou
  as vezes ao baixar o pacote do Google Drive ele faz isso, portanto se o arquivo ficou "_openedge.json" renomear para 
  ".openedge.json".
 ```sh
-- 1º. Passo - Copiar a pasta VsCodeConfig com os arquivos de configuração para o `C:\`
+- 1º. Passo - Acessar o C: e Clonar o Repositório
 - 2º. Passo - Baixar e Instalar o VS Code no link `https://code.visualstudio.com/download`
-- 3º. Passo - Adcionar a Extendão "OpenEdge ABL 1.1.6" do autor Camicas Christophe
+- 3º. Passo - Adcionar a Extendão "OpenEdge ABL v1.2.0" do autor Camicas Christophe
 - 4º. Passo - Clicar em "File" "Open Workspace..." e abrir o arquivo de configuração do workspace 
 	      C:/VsCodeConfig/config.code-workspace
 - 5º. Passo - Configurar seu ambiente progress no arquivo JSON C:\VsCodeConfig\openedge.json
