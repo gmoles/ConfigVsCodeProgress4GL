@@ -6,7 +6,7 @@
 
 - [Sobre a Configuração](#-sobre-a-configuracao)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Executar essa configuração no seu computador](#Executar-essa-configuracao-no-seu-computador)
+- [Executar essa configuração no seu computador](#Executar-essa-configuração-no-seu-computador)
 - [Licença](#-licença)
 
 ## 💡 Sobre a Configuração
