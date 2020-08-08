@@ -27,7 +27,7 @@ A configuração foi realizada utilizando as seguintes tecnologias:
 OBS: Antes de configurar o ambiente verificar se o arquivo .openedge.json trocou o "." ponto inicial por "_" 
  as vezes ao baixar o pacote do Google Drive ele faz isso, portanto se o arquivo ficou "_openedge.json" renomear para 
  ".openedge.json".
-
+```sh
 - 1º. Passo - Copiar a pasta VsCodeConfig com os arquivos de configuração para o `C:\`
 - 2º. Passo - Baixar e Instalar o VS Code no link `https://code.visualstudio.com/download`
 - 3º. Passo - Adcionar a Extendão "OpenEdge ABL 1.1.6" do autor Camicas Christophe
@@ -42,7 +42,7 @@ OBS: Antes de configurar o ambiente verificar se o arquivo .openedge.json trocou
                                algum programa pelo VS Code.
  
  Após Finalizar essa configuração você ja pode checar a sintax com Shift F2 e realizar execução de programas com o F2.
-
+```
 
 ## 📕 Licença
 
