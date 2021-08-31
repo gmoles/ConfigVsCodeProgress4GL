@@ -22,7 +22,7 @@ A configuração foi realizada utilizando as seguintes tecnologias:
 
 ## 📥 Executar essa configuração no seu computador
 
-- Acessar o C: e Clonar o Repositório: `git clone https://github.com/GuilhermeMoles/ConfigVsCodeProgress4GL.git`
+- Acessar o C: e Clonar o Repositório: `git clone https://github.com/gmoles/ConfigVsCodeProgress4GL.git`
 
 OBS: Antes de configurar o ambiente verificar se o arquivo .openedge.json trocou o "." ponto inicial por "_" 
  as vezes ao baixar o pacote do Google Drive ele faz isso, portanto se o arquivo ficou "_openedge.json" renomear para 
