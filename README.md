@@ -39,7 +39,7 @@ OBS: Antes de configurar o ambiente verificar se o arquivo .openedge.json trocou
 	      DLC	      : Pasta do Progress, geralmente C:/Progress/OpenEdge ou C:/dlc102
 	      ParameterFiles  : PF de configuração das conexões com os bancos, deixei uma PF
                                 bem simples como padrão para você configurar sua conexão.
-                                StartupProcedure: Arquivo .p que será executado todas as vezes que você rodar
+              StartupProcedure: Arquivo .p que será executado todas as vezes que você rodar
                                 algum programa pelo VS Code.
 ```
 Após Finalizar essa configuração você ja pode checar a sintax com Shift F2 e realizar execução de programas com o F2.
